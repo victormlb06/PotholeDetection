@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Pothole - v1 raw']
+
+roboflow:
+  workspace: potholes-7wrly
+  project: potholes-detection-8x8gk
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/potholes-7wrly/potholes-detection-8x8gk/1
