@@ -18,7 +18,6 @@ Welcome to the **Pothole Detection** project! This repository contains the code 
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 
