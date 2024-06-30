@@ -22,7 +22,7 @@ Welcome to the **Pothole Detection** project! This repository contains the code 
 
 ## Dataset
 
-The dataset used for this project was exported via [Roboflow](https://roboflow.com) and includes 1595 annotated images of potholes in YOLOv8 format. The images underwent the following pre-processing and augmentation steps:
+The dataset used for this project was exported via [Roboflow]( https://public.roboflow.com/object-detection/pothole) and includes 1595 annotated images of potholes in YOLOv8 format. The images underwent the following pre-processing and augmentation steps:
 - **Pre-processing**:
   - Auto-orientation of pixel data (EXIF-orientation stripping)
   - Resized to 640x640 (stretch)
