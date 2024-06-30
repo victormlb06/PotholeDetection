@@ -49,7 +49,7 @@ The results of the experiments, including precision, recall, and mAP (mean Avera
 | YOLOv9-t | 0.84623      | 0.71708   | 0.80334    |0.50284|
 | YOLOv9-s | 0.8132     | 0.69916   | 0.77945   | 0.49385 |
 | YOLOv9-m | 0.80033      | 0.6802   | 0.77704   | 0.48783 |
-| YOLOv9-c | x.xx      | x.xx   | x.xx    ||
+| YOLOv9-c | 0.81677     | 0.70243   | 0.77537    | 0.50139|
 
 Detailed results and analysis can be found in the [results](./results) directory.
 
