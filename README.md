@@ -63,9 +63,10 @@ Detailed results and analysis can be found in the following directories:
 To use the models and reproduce the results, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/pothole-detection.git
-   cd pothole-detection
+```bash
+git clone https://github.com/yourusername/pothole-detection.git
+cd pothole-detection
+```
 2. **Install dependencies**:
 ```bash
 pip install -r requirements.txt
