@@ -61,3 +61,15 @@ To use the models and reproduce the results, follow these steps:
    ```bash
    git clone https://github.com/yourusername/pothole-detection.git
    cd pothole-detection
+2. **Install dependencies**:
+```bash
+pip install -r requirements.txt
+```
+3. **Train the model**:
+```bash
+python train.py --model yolov9-s --data data/potholes.yaml
+```
+4.**Evaluate the model**:
+```bash
+python evaluate.py --model yolov9-s --data data/potholes.yaml
+```
