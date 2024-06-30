@@ -44,12 +44,12 @@ Details on each model's architecture, training parameters, and performance metri
 
 The results of the experiments, including precision, recall, and mAP (mean Average Precision) scores, are summarized below:
 
-| Model    | Precision | Recall | mAP@0.5 |
-|----------|-----------|--------|---------|
-| YOLOv9-s | x.xx      | x.xx   | x.xx    |
-| YOLOv9-t | x.xx      | x.xx   | x.xx    |
-| YOLOv9-m | x.xx      | x.xx   | x.xx    |
-| YOLOv9-c | x.xx      | x.xx   | x.xx    |
+| Model    | Precision | Recall | mAP@0.5 | mAP@50-95 |
+|----------|-----------|--------|---------|---------|
+| YOLOv9-s | x.xx      | x.xx   | x.xx    | |
+| YOLOv9-t | 0.84623      | 0.71708   | 0.80334    |0.50284|
+| YOLOv9-m | x.xx      | x.xx   | x.xx    ||
+| YOLOv9-c | x.xx      | x.xx   | x.xx    ||
 
 Detailed results and analysis can be found in the [results](./results) directory.
 
