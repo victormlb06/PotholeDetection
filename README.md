@@ -51,7 +51,12 @@ The results of the experiments, including precision, recall, and mAP (mean Avera
 | YOLOv9-m | 0.80033      | 0.6802   | 0.77704   | 0.48783 |
 | YOLOv9-c | 0.81677     | 0.70243   | 0.77537    | 0.50139|
 
-Detailed results and analysis can be found in the [results](./results) directory.
+Detailed results and analysis can be found in the following directories:
+ 
+1.  [YOLOv9-t](./Potholev2/YOLOv9t/VersaoFinal/results.csv)
+2.  [YOLOv9-s](./Potholev2/YOLOv9s/VersaoFinal/results.csv)
+3.  [YOLOv9-m](./Potholev2/YOLOv9m/VersaoFinal/results.csv)
+4.  [YOLOv9-c](./Potholev2/YOLOv9c/VersaoFinal/results.csv)
 
 ## Usage
 
